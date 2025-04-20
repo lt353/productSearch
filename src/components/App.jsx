@@ -14,4 +14,4 @@ function App() {
   return <FilterableProductTable products={PRODUCTS} />;
 }
 
-export default App;
+export default App; 
